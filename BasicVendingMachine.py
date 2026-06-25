@@ -1,7 +1,7 @@
 class VendingMachine:
     """A vending machine that vends some product for some price. 
     Applying the Adding Funds and Vending methods
-
+    
     >>> v = VendingMachine('candy', 10)
     >>> v.vend()
     'Please add $10 more funds.'
