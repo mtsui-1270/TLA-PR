@@ -1,4 +1,6 @@
 class VendingMachine:
+
+    ##examples of what it should output
     """A vending machine that vends some product for some price. 
     Applying the Adding Funds and Vending methods
     
